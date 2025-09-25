@@ -2,14 +2,14 @@
 A Flask-based web application that manages blood donations, recipients, stock levels, and appointments. It also includes a chatbot that can answer stock-related queries.
 ##  Features
 
-✅ **User Authentication** – Signup/Login system with password hashing
-✅ **SQLite Database** – Stores users, donations, recipients, and appointments
-✅ **Chatbot Integration** – Linked to stock, answers unit availability or “out of stock”
-✅ **Flash Messages** – Success/error messages for actions
-✅ **Appointment Booking** – Registered users can schedule donation appointments
-✅ **Donation & Recipient Tracking** – Full history for each user
-✅ **Stock Interface** – Shows live stock updates based on donations and requests
-✅ **Admin Panel** – Adjust stock manually (admin only)
+**User Authentication** – Signup/Login system with password hashing
+**SQLite Database** – Stores users, donations, recipients, and appointments
+**Chatbot Integration** – Linked to stock, answers unit availability or “out of stock”
+**Flash Messages** – Success/error messages for actions
+**Appointment Booking** – Registered users can schedule donation appointments
+**Donation & Recipient Tracking** – Full history for each user
+**Stock Interface** – Shows live stock updates based on donations and requests
+**Admin Panel** – Adjust stock manually (admin only)
 
 ##  Project Structure
 
