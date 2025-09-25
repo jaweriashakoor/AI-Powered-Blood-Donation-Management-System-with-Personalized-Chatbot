@@ -88,4 +88,3 @@ AI BDMS/
 * **Authentication:** Werkzeug password hashing
 * **Bot:** Simple Python chatbot with stock integration
 
-Would you like me to also create a **`requirements.txt`** so you can install everything in one command (`pip install -r requirements.txt`)?
